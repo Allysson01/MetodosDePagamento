@@ -1,0 +1,13 @@
+D:\Projetos\MetodosDePagamento\bin\Debug\netcoreapp3.1\MetodosDePagamento.exe
+D:\Projetos\MetodosDePagamento\bin\Debug\netcoreapp3.1\MetodosDePagamento.deps.json
+D:\Projetos\MetodosDePagamento\bin\Debug\netcoreapp3.1\MetodosDePagamento.runtimeconfig.json
+D:\Projetos\MetodosDePagamento\bin\Debug\netcoreapp3.1\MetodosDePagamento.runtimeconfig.dev.json
+D:\Projetos\MetodosDePagamento\bin\Debug\netcoreapp3.1\MetodosDePagamento.dll
+D:\Projetos\MetodosDePagamento\bin\Debug\netcoreapp3.1\MetodosDePagamento.pdb
+D:\Projetos\MetodosDePagamento\obj\Debug\netcoreapp3.1\MetodosDePagamento.csprojAssemblyReference.cache
+D:\Projetos\MetodosDePagamento\obj\Debug\netcoreapp3.1\MetodosDePagamento.AssemblyInfoInputs.cache
+D:\Projetos\MetodosDePagamento\obj\Debug\netcoreapp3.1\MetodosDePagamento.AssemblyInfo.cs
+D:\Projetos\MetodosDePagamento\obj\Debug\netcoreapp3.1\MetodosDePagamento.csproj.CoreCompileInputs.cache
+D:\Projetos\MetodosDePagamento\obj\Debug\netcoreapp3.1\MetodosDePagamento.dll
+D:\Projetos\MetodosDePagamento\obj\Debug\netcoreapp3.1\MetodosDePagamento.pdb
+D:\Projetos\MetodosDePagamento\obj\Debug\netcoreapp3.1\MetodosDePagamento.genruntimeconfig.cache
